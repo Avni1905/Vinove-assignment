@@ -30,8 +30,8 @@ This Flutter project provides real-time tracking of users' locations and allows 
        - *Total Distance* covered (in kilometers)
        - *Total Time* taken between points
      - Stops lasting more than *10 minutes* are marked with distinct markers, making it easy to identify significant halts during the journey.
-5. *Drawer*
-   https://github.com/mandeep888/Vinove-assignment/blob/master/assets/Drawer.jpg?raw=true
+5. ![Drawer](https://github.com/mandeep888/Vinove-assignment/blob/master/assets/Drawer.jpg?raw=true)
+
 ## Screens Overview
 
 1. *Attendance Screen*  
