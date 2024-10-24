@@ -8,6 +8,7 @@ This feature allows users to track and view the current location and traveled ro
 1. **Attendance List**  
    - **Access**: Start by going to the **Attendance** section from the menu. Here, you'll see a list of members, each with two icons on the right.
    - **Check Location**: The **second icon** lets you see the current location and travel history of a member.
+   - ![Attendance List](assets/Attendace Screen.jpg)
 
 2. **View Member’s Location and Timeline**  
    - **Map View**: Clicking the location icon will open a map showing the member’s **current location**.
