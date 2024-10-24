@@ -5,11 +5,11 @@ This Flutter project provides real-time tracking of users' locations and allows 
 
 ## Key Features
 
-1. *Member List and Attendance*  
-   - Navigate to the *Attendance* section from the menu to view the list of team members.
-   - Each member is displayed with an avatar, their current login status, and two actionable icons.
-     - *View Location History*: The calendar icon opens the history of the member’s locations for the selected date.
-     - *Track Live Location*: The GPS icon displays the current live location of the member on a map.
+
+1. **Attendance List**  
+   - **Access**: Start by going to the **Attendance** section from the menu. Here, you'll see a list of members, each with two icons on the right.
+   - **Check Location**: The **second icon** lets you see the current location and travel history of a member.
+   - ![Attendance List](assets/Attendace Screen.jpg)
 
 2. *Real-Time Location Tracking*  
    - The live location of a member is displayed on an interactive map, allowing you to track their real-time movements.
